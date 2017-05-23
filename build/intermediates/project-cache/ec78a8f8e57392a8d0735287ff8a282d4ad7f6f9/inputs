@@ -1,0 +1,6 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE_PATH=C:\Users\jorge\Documents\projects\Applaudo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar
+FILE_HASH=721cdecd31fbba80aa580552bf5593b959da60fb
+DX_VERSION=1.13
+JUMBO_MODE=true
+OPTIMIZE=true
